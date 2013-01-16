@@ -1,0 +1,7 @@
+{
+    "id": "gareth",
+    "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzRO/dVWXN+kj1MYScrYx2FTRFDUXJKEsdj7mlkPHjD20+YqgGBsAU9wE3GbigA6nM6v/XIqWM5aD8r2/gB+c4kGuf5NlgPJpipUSQZ7wD/NpgrbEIF6eQKlCpfbnoGev1XVyJSnnaTB70bZKg8JhDHE8n9ODWh+/MmJqEarMV7H8uIBPKgXRx8zXCtTlXIQDepQoaAix15oqrPv99M2IB4w0xhqbw0zg/2wqfclvxExCyHh06qeJDEEkm56A8lEX6ng1HUDgtjSxkjf99parJOXiwmZHIPR5ofX7/VXWWp9sMim/Zx9DvPcis2zK8YmRv2gwqhsjw0sURiq2BmKjB gareth.foote@gmail.com",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2001,
+    "shell": "\/bin\/bash"
+}
